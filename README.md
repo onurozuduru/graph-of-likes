@@ -8,7 +8,7 @@ It is a python script that generates a graph of your recent likes.
 * [pattern](https://github.com/clips/pattern)
 * [lxml](https://github.com/lxml/lxml)
 
-## Instagram API
+## About Instagram API
 
 You need access token to use that script. You can register your application from Instagram's developer page, [here](https://www.instagram.com/developer/).
 
