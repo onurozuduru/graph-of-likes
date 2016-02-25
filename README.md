@@ -2,6 +2,8 @@
 
 It is a python script that generates a graph of your recent likes.
 
+[I wrote a blog post about it, click me for more details.](http://ozuduru.com/2016/02/25/generating-graph-of-liked-photos-on-instagram/)
+
 ## Required Libraries
 
 * [python-instagram](https://github.com/Instagram/python-instagram)
